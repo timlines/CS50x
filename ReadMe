@@ -1,1 +1,3 @@
 This is the first program I made in C in the CS50x course.
+
+Use make hello to compile the code and ./ hello to run the code in the CS50x IDE found here: ide.cs50.io
